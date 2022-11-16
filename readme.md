@@ -60,7 +60,11 @@
   ![](files/images/11-16-22-17-28.png)
 - 直接在空白地方点击右键选择运行即可在左下角看到成功运行.
   ![](files/images/11-16-22-19-38.png)
-- 点击左下方终端后在下面输入`pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple`后回车即可修改pip下载源为清华源
+- 点击左下方终端后在下面输入
+  ```
+  pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+  ```
+- 后回车即可修改pip下载源为清华源.  
   ![](files/images/11-16-22-21-59.png)  
 - 如果遇到需要下载遇到的第三方库,可以将鼠标指向库名称后点击安装库.也可以在终端处输入`pip install numpy`(更换为自己的库名称进行安装)    
   ![](files/images/11-16-22-24-19.png)  
