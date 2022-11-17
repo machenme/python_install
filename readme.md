@@ -1,7 +1,7 @@
 # Python入门简介
 ## 搭建开发环境  
 ### 下载python  
-  - 推荐3.10.6版本(最后一个版本支持win7)[官网下载](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
+  - 推荐3.10.6版本[官网下载](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe)
   - 如果下载慢的话可以下载我lanzou提供的分流[蓝奏云盘](https://mc29.lanzouv.com/iM46L0g2ju4h)(二选一即可)
 ### 安装python  
   - 双击打开下载好的`python-3.10.6-amd64.exe`文件.  
